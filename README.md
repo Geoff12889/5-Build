@@ -10,4 +10,4 @@ The Indie Film Collective is a multi-page webpage meant to tell the community ab
 4. [Workshops](https://geoff12889.github.io/5-Build/workshops.html)
 
 ## Website
-[Visit the site](https://geoff12889.github.io/5-Build/)
+[Visit the site](https://geoff12889.github.io/5-Build/) at https://geoff12889.github.io/5-Build/
